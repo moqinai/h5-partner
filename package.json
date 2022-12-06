@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "fastclick": "^1.0.6",
     "mockjs": "^1.0.1-beta3",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "swiper.js": "^1.0.0",
     "vue": "^2.6.10",
     "vue-awesome-swiper": "^3.1.3",
